@@ -1,3 +1,5 @@
+# Getting Started
+
 (Kryonix) is a programming language I created. Its layout and abilities are vary similar to Python so should be relatively easy to pick up if you know the language as the only real difference is the syntax.
 
 Boolean algebra, arithmetic and logic operations all work the same way as in Python.
