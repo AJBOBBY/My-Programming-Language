@@ -1,3 +1,4 @@
+The keywords are exactly the same as in Python.
 ### Break
 ```text 
 var x = 0
