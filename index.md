@@ -1,6 +1,6 @@
 # Getting Started
 
-(Kryonix) is a programming language I created. Its layout and abilities are vary similar to Python so should be relatively easy to pick up if you know the language as the only real difference is the syntax.
+My programming language's layout and abilities are vary similar to Python so should be relatively easy to pick up if you know the language as the only real difference is the syntax.
 
 Boolean algebra, arithmetic and logic operations all work the same way as in Python.
 ## Basics
@@ -11,6 +11,7 @@ display("Hello World!")
 ```
 
 ### Variables
+These work exactly the same as python except you don't need to initialize a variable when you create it.
 ```text 
 var x 
 x = 10
@@ -26,6 +27,7 @@ display("Hello", name + "!")
 ```
 
 ### Comments
+To comment in my language, rather than a hashtag, two right chevrons are used to create a comment.
 ```text 
 >> This is a comment
 ```
